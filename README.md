@@ -1,2 +1,2 @@
-traduxion pour le mode custom model player
-en cour 16%
+traduxion pour le mode custom model player <br>
+en cour 35%
